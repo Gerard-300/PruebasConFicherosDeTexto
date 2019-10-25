@@ -7,3 +7,9 @@
 
 
 ##-----------------------------------------------
+
+##-----------------------------------------------
+	Ahora procedemos a buscar el merge. Primero
+	Añadimos estas líneas a coninuación para ver que error nos podría dar
+	y probamos a ejecutarlo desde mi portatil personal
+##-----------------------------------------------
