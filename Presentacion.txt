@@ -19,3 +19,7 @@
 	y probamos a ejecutarlo desde mi portatil personal
 >>>>>>> e253b59bd37042c3ee8b3d1ff2ade164d266ae50
 ##-----------------------------------------------
+##-----------------------------------------------
+	Segundo intento de merge pero
+	Desde mi ordenador portatil personal quiero resolverlo
+##-----------------------------------------------
