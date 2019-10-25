@@ -7,3 +7,7 @@
 
 
 ##-----------------------------------------------
+##-----------------------------------------------
+	Aquí pruebo el merge desde mi ordenador personal
+	añadimos líneas para ver el número de fallos que devolvería
+##-----------------------------------------------
